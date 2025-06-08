@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+#Too large
+project_root/data/cifar-10-python.tar.gz
+#File too large to push to git
